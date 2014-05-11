@@ -1,4 +1,6 @@
 lab
 ===
 
-Laboratorio de ideas
+Laboratorio de ideas:
+
+Repositorio para albergar los posibles proyectos y herramientas
